@@ -9,3 +9,4 @@ tup2 = ('xyz', 'abc', 'cde')
 tup3 = tup1 + tup2
 
 print(tup3)
+print('Terimakasih')
